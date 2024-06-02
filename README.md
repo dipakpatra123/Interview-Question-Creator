@@ -23,9 +23,13 @@ conda activate Interview
 
 
 git clone https://github.com/dipakpatra123/Interview-Question-Creator.git
+
 git add .
+
 git commit -m
+
 git commit -m "readme updated"
+
 git push origin main
 
 
